@@ -1,0 +1,157 @@
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.exe
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.deps.json
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.runtimeconfig.json
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.pdb
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.AssemblyReference.cache
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\App.g.cs
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1_MarkupCompile.cache
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1_MarkupCompile.lref
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.g.resources
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.AssemblyInfoInputs.cache
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.AssemblyInfo.cs
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.CoreCompileInputs.cache
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\refint\WpfAppSearchBarriers1.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.pdb
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.genruntimeconfig.cache
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\ref\WpfAppSearchBarriers1.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.CopyComplete
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.exe
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.deps.json
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.runtimeconfig.json
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\WpfAppSearchBarriers1.pdb
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.AssemblyReference.cache
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\App.g.cs
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1_MarkupCompile.cache
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1_MarkupCompile.lref
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.g.resources
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.AssemblyInfoInputs.cache
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.AssemblyInfo.cs
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.CoreCompileInputs.cache
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.csproj.CopyComplete
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\refint\WpfAppSearchBarriers1.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.pdb
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\WpfAppSearchBarriers1.genruntimeconfig.cache
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\obj\Debug\net6.0-windows\ref\WpfAppSearchBarriers1.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.barcodes.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.forms.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.io.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.kernel.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.layout.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.pdfa.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.sign.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.svg.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itext.commons.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\itextsharp.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\2 - Work (MADI)\Работа на кафедре\Программы\WpfAppSearchBarriers1\WpfAppSearchBarriers1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
