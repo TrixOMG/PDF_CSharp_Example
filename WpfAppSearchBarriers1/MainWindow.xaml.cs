@@ -1,5 +1,6 @@
 ﻿using iTextSharp.text.pdf;
 using iTextSharp.text;
+using iTextSharp.text.pdf.parser;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,8 @@ using System.Reflection;
 using System.Windows;
 using static iText.Kernel.Pdf.Colorspace.PdfShading;
 using System.Windows.Media;
+using System.Windows.Controls;
+using System.Text;
 
 namespace WpfAppSearchBarriers1
 {
@@ -65,6 +68,37 @@ namespace WpfAppSearchBarriers1
             _sexParam = "%male%";
         }
 
+        private void ReadPDF(object sender, RoutedEventArgs e)
+        {
+            string filePath = @"D:\Zayavka.pdf";
+            //PdfReader pdfReader = new PdfReader(filePath);
+
+
+            //AcroFields fields = pdfReader.AcroFields;
+            //foreach (string fieldName in fields.Fields.Keys)
+            //{
+            //    string fieldValue = fields.GetField(fieldName);
+
+            //    //Console.WriteLine("Field Name: " + fieldName + ", Field Value: " + fieldValue);
+            //    ConsoleTextBox.AppendText("Field Name: " + fieldName + ", Field Value: " + fieldValue);
+            //}
+
+            //pdfReader.Close();
+
+            //
+            //WORKS, BUT READS ONLY TEXT FROM PDF
+
+            StringBuilder text = new StringBuilder();
+            using (PdfReader reader = new PdfReader(filePath))
+            {
+                for (int i = 1; i <= reader.NumberOfPages; i++)
+                {
+                    text.Append(PdfTextExtractor.GetTextFromPage(reader, i));
+                }
+            }
+
+            ConsoleTextBox.AppendText(text.ToString());
+        }
 
         private void CreatePDF(object sender, RoutedEventArgs e)
         {

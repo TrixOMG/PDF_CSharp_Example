@@ -31,10 +31,12 @@
 
     <Grid>
         <TextBox Text="{Binding SearchText}" Margin="2,2,550,387"></TextBox>
-        <DataGrid Name="EmployeesList" Margin="10,50,10,10"/>
+        <DataGrid Name="EmployeesList" Margin="10,50,10,190"/>
         <Button x:Name="submit" Click="Sumbit" Content="Button" HorizontalAlignment="Left" Margin="735,10,0,0" VerticalAlignment="Top" Height="35" Width="48"/>
         <!--<Button x:Name="submit" Click="CreatePDF" Content="Create PDF" HorizontalAlignment="Left"/>-->
         <CheckBox Content="Female" HorizontalAlignment="Left" Margin="273,12,0,0" VerticalAlignment="Top" Checked="CheckBoxChanged" Unchecked="Unchecked" IsChecked="False"/>
         <Button Content="Create PDF" Click="CreatePDF" HorizontalAlignment="Left" Margin="634,10,0,0" VerticalAlignment="Top" Height="35" Width="96"/>
+        <Button Content="Read from PDF" Click="ReadPDF" HorizontalAlignment="Left" Margin="526,10,0,0" VerticalAlignment="Top" Height="35" Width="96"/>
+        <TextBox Name="ConsoleTextBox" HorizontalAlignment="Left" Margin="152,262,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="530" Height="151"/>
     </Grid>
 </Window>
